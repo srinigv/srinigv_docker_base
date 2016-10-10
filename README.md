@@ -13,7 +13,7 @@
 * .gitconfig
 
 ## use this image as base
-  FROM srinigv/base:v3.0
+  FROM srinigv/base:v1.0
 
 ## build
   git clone https://github.com/srinigv/docker_base
